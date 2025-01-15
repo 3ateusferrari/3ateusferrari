@@ -11,7 +11,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
   
-      https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=3&origin=search&related_id=5968332
  ## Pra me conhecer melhor, me siga nas rede sociais!!
   
  <div> 
