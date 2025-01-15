@@ -9,7 +9,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
   <img align="center" alt="Php" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg" />
   <img align="center" alt="CakePHP" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cakephp-1.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://www.flaticon.com/free-icon/mysql_5968313?term=mysql&page=1&position=5&origin=search&related_id=5968313" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
   
       https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=3&origin=search&related_id=5968332
