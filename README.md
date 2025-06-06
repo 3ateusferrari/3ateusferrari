@@ -48,7 +48,7 @@ public class Developer {
 - **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Git, Linux
-- **Testes:** Docker, Git, Linux
+- **Testes:** JUnit, Mockito 
 - **Arquitetura:** REST APIs, Microserviços, Clean Code
 
 ## 📊 GitHub Stats
@@ -94,14 +94,6 @@ API robusta para e-commerce com arquitetura de microserviços.
 - **Tech:** Java, Spring Boot, Docker, RabbitMQ
 - **Features:** Carrinho, pagamentos, notificações
 
-## 📈 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 💼 Experiência
 
 ```java
@@ -114,7 +106,7 @@ experiencia.put("2021-2022", "Projetos Acadêmicos - Java & Web Development");
 ## 🎯 Objetivos 2025
 
 - [ ] Concluir graduação em Sistemas de Informação
-- [ ] Alcançar 10k seguidores no YouTube
+- [ ] Alcançar 1k inscritos no YouTube
 - [ ] Contribuir para projetos open source
 - [ ] Aprender Kubernetes e AWS
 - [ ] Publicar artigos técnicos no Medium
