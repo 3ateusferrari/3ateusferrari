@@ -54,12 +54,12 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Suas stats do GitHub" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=3ateusferrari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Suas stats do GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ateusferrari&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3ateusferrari&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Streak stats"/>
 </div>
 
 ## 🎥 Criação de Conteúdo
@@ -97,9 +97,9 @@ API robusta para e-commerce com arquitetura de microserviços.
 ## 📈 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seuusername/seuusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seuusername/seuusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seuusername/seuusername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 💼 Experiência
