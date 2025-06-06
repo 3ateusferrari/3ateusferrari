@@ -1,7 +1,7 @@
 # Olá! Eu sou o Mateus 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java+%7C+Spring+Boot;Estudante+de+Sistemas+de+Informação;Criador+de+Conteúdo+Tech;Sempre+aprendendo+algo+novo!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java+%7C+Spring+Boot;Criador+de+Conteúdo+Tech;Sempre+aprendendo+algo+novo!"/>
 </div>
 
 ## 🚀 Sobre mim
@@ -20,7 +20,7 @@ public class Developer {
 }
 ```
 
-- 🎓 Graduando em **Sistemas de Informação** em uma Universidade Federal de Santa Catarina
+- 🎓 Graduando em **Sistemas de Informação** na Universidade Federal de Santa Catarina
 - 💻 Especialista em **Java** e **Spring Boot**
 - 📝 Criando conteúdo sobre tecnologia no **YouTube** e **TikTok**
 - 🌱 Atualmente aprendendo: **Microserviços**, **Docker**, **AWS**
@@ -48,6 +48,7 @@ public class Developer {
 - **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Git, Linux
+- **Testes:** Docker, Git, Linux
 - **Arquitetura:** REST APIs, Microserviços, Clean Code
 
 ## 📊 GitHub Stats
@@ -122,9 +123,8 @@ experiencia.put("2021-2022", "Projetos Acadêmicos - Java & Web Development");
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/3ateusferrari/))
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateusspier@gmail.com)
 
 </div>
 
