@@ -131,7 +131,7 @@ experiencia.put("2021-2022", "Projetos Acadêmicos - Java & Web Development");
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusername&color=00bfbf&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=3ateusferrari&color=00bfbf&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
