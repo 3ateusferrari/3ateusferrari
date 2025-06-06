@@ -8,7 +8,7 @@
 
 ```java
 public class Developer {
-    private String nome = "Seu Nome";
+    private String nome = "Mateus Ferrari";
     private String formacao = "Sistemas de Informação";
     private String foco = "Backend Development";
     private boolean aprendendo = true;
@@ -20,7 +20,7 @@ public class Developer {
 }
 ```
 
-- 🎓 Graduando em **Sistemas de Informação** em uma Universidade Federal
+- 🎓 Graduando em **Sistemas de Informação** em uma Universidade Federal de Santa Catarina
 - 💻 Especialista em **Java** e **Spring Boot**
 - 📝 Criando conteúdo sobre tecnologia no **YouTube** e **TikTok**
 - 🌱 Atualmente aprendendo: **Microserviços**, **Docker**, **AWS**
@@ -67,7 +67,6 @@ public class Developer {
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seucanal)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@seuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
 
 </div>
 
