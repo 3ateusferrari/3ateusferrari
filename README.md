@@ -52,7 +52,7 @@
 
 ## Contato
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-00bfbf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusspier@email.com)
+[![Email](https://img.shields.io/badge/Email-00bfbf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusspier@email.com)
 
   <a href="https://www.linkedin.com/in/3ateusferrari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
