@@ -30,4 +30,4 @@ Atualmente aprofundando em **Java e Spring Boot**, com foco em APIs REST e arqui
 
 ## Contato
 **Email:** mateusspier@email.com  
-**LinkedIn:** linkedin.com/in/3ateusferrari  
+**LinkedIn:** [linkedin.com/in/3ateusferrari](https://linkedin.com/in/3ateusferrari)
