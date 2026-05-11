@@ -9,7 +9,7 @@
 ## Sobre Mim
 
 Desenvolvedor Backend com mais de 2 anos de experiência em sistemas de alta responsabilidade.
-Atuo na **Assembleia Legislativa de SC**, onde desenvolvo e mantenho sistemas institucionais críticos.
+Atuei na **Assembleia Legislativa de SC**, onde desenvolvi e mantenho sistemas institucionais críticos.
 Foco em **Java, Spring Boot** e arquitetura de microsserviços, com experiência complementar em PHP e Node.js.
 
 ---
