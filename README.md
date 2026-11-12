@@ -72,5 +72,5 @@ Desenvolvedor **Full Stack** com mais de 3 anos de trajetória em tecnologia, se
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/3ateusferrari/3ateusferrari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=3ateusferrari&pokes=1,4,7,25,133,94" alt="Pokémons" />
 </div>
