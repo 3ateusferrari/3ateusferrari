@@ -72,5 +72,5 @@ Desenvolvedor **Full Stack** com mais de 3 anos de trajetória em tecnologia, se
 ---
 
 <div align="center">
-  <img src="https://pokereadme.murilonoguez.com.br/api?user=3ateusferrari&pokes=1,4,7,25,133,94" alt="Pokémons" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=3ateusferrari&pokes=1,4,7,25,133,94" alt="Equipe Pokémon" />
 </div>
